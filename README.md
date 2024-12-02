@@ -28,7 +28,7 @@ cd advent-of-code-2024
 2.	Each day’s solution is in its own folder. Navigate to the folder for the day you’re interested in:
 
 ```
-cd day-1-historian-hysteria -- resources/puzzle # for example
+cd day-1-historian-hysteria # for example
 ```
 
 3.	Run the solution for that day:
